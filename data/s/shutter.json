@@ -1,0 +1,34 @@
+{ 
+  "word": "shutter", 
+  "phonetic": "/ˈʃʌtər/", 
+  "part_of_speech": ["noun", "verb"], 
+ 
+  "meanings": { 
+    "noun": [ 
+      { 
+        "definition": "A pair of hinged panels, often louvered, fixed inside or outside a window that can be closed for security or privacy or to keep out light", 
+        "example": "She painted the wooden shutters blue." 
+      } 
+    ], 
+    "verb": [ 
+      { 
+        "definition": "To close the shutters of a window or building", 
+        "example": "The shop was shuttered for the night." 
+      } 
+    ] 
+  }, 
+ 
+  "tense_forms": { 
+    "base": "shutter", 
+    "past": "shuttered", 
+    "past_participle": "shuttered", 
+    "present_participle": "shuttering", 
+    "third_person": "shutters" 
+  }, 
+ 
+  "synonyms": ["blind", "screen", "close", "shut"], 
+  "antonyms": ["open", "uncover"], 
+  "usage_examples": [ 
+    "The photographer clicked the shutter at the perfect moment." 
+  ] 
+}

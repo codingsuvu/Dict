@@ -1,0 +1,34 @@
+{ 
+  "word": "solve", 
+  "phonetic": "/sɑːlv/", 
+  "part_of_speech": ["verb", "noun"], 
+ 
+  "meanings": { 
+    "verb": [ 
+      { 
+        "definition": "To find an answer to, explanation for, or means of effectively dealing with a problem or mystery", 
+        "example": "She finally solved the riddle." 
+      } 
+    ], 
+    "noun": [ 
+      { 
+        "definition": "An act or instance of solving a problem or mystery", 
+        "example": "The crossword was a quick solve." 
+      } 
+    ] 
+  }, 
+ 
+  "tense_forms": { 
+    "base": "solve", 
+    "past": "solved", 
+    "past_participle": "solved", 
+    "present_participle": "solving", 
+    "third_person": "solves" 
+  }, 
+ 
+  "synonyms": ["resolve", "answer", "decipher", "figure out", "crack"], 
+  "antonyms": ["complicate", "create", "worsen"], 
+  "usage_examples": [ 
+    "Technology can help solve many environmental problems." 
+  ] 
+}

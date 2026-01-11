@@ -1,0 +1,38 @@
+{ 
+  "word": "smoke", 
+  "phonetic": "/smoʊk/", 
+  "part_of_speech": ["noun", "verb"], 
+ 
+  "meanings": { 
+    "noun": [ 
+      { 
+        "definition": "A visible suspension of carbon or other particles in air, typically emitted from a burning substance", 
+        "example": "Thick black smoke rose from the chimney." 
+      } 
+    ], 
+    "verb": [ 
+      { 
+        "definition": "To emit smoke or visible vapor", 
+        "example": "The fireplace smoked heavily." 
+      },
+      {
+        "definition": "To inhale and exhale the smoke of tobacco or a drug",
+        "example": "He decided to quit smoking."
+      }
+    ] 
+  }, 
+ 
+  "tense_forms": { 
+    "base": "smoke", 
+    "past": "smoked", 
+    "past_participle": "smoked", 
+    "present_participle": "smoking", 
+    "third_person": "smokes" 
+  }, 
+ 
+  "synonyms": ["fumes", "vapor", "smog", "gas"], 
+  "antonyms": [], 
+  "usage_examples": [ 
+    "The room was filled with cigarette smoke." 
+  ] 
+}

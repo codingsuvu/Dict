@@ -1,0 +1,34 @@
+{
+  "word": "stack",
+  "phonetic": "/stæk/",
+  "part_of_speech": ["verb", "noun"],
+
+  "meanings": {
+    "verb": [
+      {
+        "definition": "To arrange or place things one on top of another",
+        "example": "Please stack the books on the table."
+      }
+    ],
+    "noun": [
+      {
+        "definition": "A pile of objects placed one on top of another",
+        "example": "There was a stack of papers on his desk."
+      }
+    ]
+  },
+
+  "tense_forms": {
+    "base": "stack",
+    "past": "stacked",
+    "past_participle": "stacked",
+    "present_participle": "stacking",
+    "third_person": "stacks"
+  },
+
+  "synonyms": ["pile", "heap", "arrange"],
+  "antonyms": ["scatter", "spread"],
+  "usage_examples": [
+    "Workers stacked the boxes carefully in the warehouse."
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "word": "spell",
+  "phonetic": "/spel/",
+  "part_of_speech": ["verb", "noun"],
+
+  "meanings": {
+    "verb": [
+      {
+        "definition": "To write or say the letters of a word in the correct order",
+        "example": "Please spell your name correctly."
+      }
+    ],
+    "noun": [
+      {
+        "definition": "A short period of time",
+        "example": "She stayed there for a short spell."
+      }
+    ]
+  },
+
+  "tense_forms": {
+    "base": "spell",
+    "past": "spelled / spelt",
+    "past_participle": "spelled / spelt",
+    "present_participle": "spelling",
+    "third_person": "spells"
+  },
+
+  "synonyms": ["write", "form"],
+  "antonyms": ["miswrite"],
+  "usage_examples": [
+    "Can you spell this word?",
+    "After a short spell of rain, the weather cleared."
+  ]
+}

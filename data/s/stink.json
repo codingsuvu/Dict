@@ -1,0 +1,34 @@
+{
+  "word": "stink",
+  "phonetic": "/stɪŋk/",
+  "part_of_speech": ["verb", "noun"],
+
+  "meanings": {
+    "verb": [
+      {
+        "definition": "To have a very unpleasant smell",
+        "example": "The garbage began to stink in the heat."
+      }
+    ],
+    "noun": [
+      {
+        "definition": "A strong and unpleasant smell",
+        "example": "There was a terrible stink in the room."
+      }
+    ]
+  },
+
+  "tense_forms": {
+    "base": "stink",
+    "past": "stank / stunk",
+    "past_participle": "stunk",
+    "present_participle": "stinking",
+    "third_person": "stinks"
+  },
+
+  "synonyms": ["smell", "reek", "odor"],
+  "antonyms": ["fragrance", "sweetness"],
+  "usage_examples": [
+    "The drain started to stink after the rain."
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "word": "storm",
+  "phonetic": "/stɔːrm/",
+  "part_of_speech": ["verb", "noun"],
+
+  "meanings": {
+    "verb": [
+      {
+        "definition": "To attack or move angrily or violently",
+        "example": "The protesters stormed the building."
+      }
+    ],
+    "noun": [
+      {
+        "definition": "A violent disturbance of the atmosphere",
+        "example": "The storm damaged many houses."
+      }
+    ]
+  },
+
+  "tense_forms": {
+    "base": "storm",
+    "past": "stormed",
+    "past_participle": "stormed",
+    "present_participle": "storming",
+    "third_person": "storms"
+  },
+
+  "synonyms": ["attack", "tempest", "rage"],
+  "antonyms": ["calm", "peace"],
+
+  "usage_examples": [
+    "Heavy rain and wind signaled the arrival of a storm."
+  ]
+}

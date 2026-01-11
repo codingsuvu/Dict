@@ -1,0 +1,34 @@
+{
+  "word": "startle",
+  "phonetic": "/ˈstɑːrtl/",
+  "part_of_speech": ["verb", "noun"],
+
+  "meanings": {
+    "verb": [
+      {
+        "definition": "To suddenly surprise or frighten someone",
+        "example": "The loud noise startled the child."
+      }
+    ],
+    "noun": [
+      {
+        "definition": "A sudden feeling of surprise or shock",
+        "example": "She gave a startle when the door slammed."
+      }
+    ]
+  },
+
+  "tense_forms": {
+    "base": "startle",
+    "past": "startled",
+    "past_participle": "startled",
+    "present_participle": "startling",
+    "third_person": "startles"
+  },
+
+  "synonyms": ["surprise", "shock", "frighten"],
+  "antonyms": ["calm", "reassure"],
+  "usage_examples": [
+    "Do not startle the animals with sudden movements."
+  ]
+}

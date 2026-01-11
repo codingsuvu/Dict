@@ -1,0 +1,34 @@
+{
+  "word": "sweat",
+  "phonetic": "/swet/",
+  "part_of_speech": ["verb", "noun"],
+
+  "meanings": {
+    "verb": [
+      {
+        "definition": "To excrete moisture through the pores due to heat or exertion",
+        "example": "He sweated heavily after running up the stairs."
+      }
+    ],
+    "noun": [
+      {
+        "definition": "Moisture excreted through the skin; perspiration",
+        "example": "Beads of sweat formed on her forehead."
+      }
+    ]
+  },
+
+  "tense_forms": {
+    "base": "sweat",
+    "past": "sweated",
+    "past_participle": "sweated",
+    "present_participle": "sweating",
+    "third_person": "sweats"
+  },
+
+  "synonyms": ["perspire", "exude", "drip"],
+  "antonyms": ["dry", "freeze"],
+  "usage_examples": [
+    "He wiped the sweat from his brow after the workout."
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "word": "study",
+  "phonetic": "/ˈstʌdi/",
+  "part_of_speech": ["verb", "noun"],
+
+  "meanings": {
+    "verb": [
+      {
+        "definition": "To spend time learning or examining a subject",
+        "example": "She studies mathematics every evening."
+      }
+    ],
+    "noun": [
+      {
+        "definition": "The act of learning or a room used for reading and writing",
+        "example": "His study is full of books."
+      }
+    ]
+  },
+
+  "tense_forms": {
+    "base": "study",
+    "past": "studied",
+    "past_participle": "studied",
+    "present_participle": "studying",
+    "third_person": "studies"
+  },
+
+  "synonyms": ["learn", "examine", "research"],
+  "antonyms": ["neglect", "ignore"],
+  "usage_examples": [
+    "Regular study helps improve academic performance."
+  ]
+}

@@ -1,0 +1,34 @@
+{ 
+  "word": "sneeze", 
+  "phonetic": "/sniːz/", 
+  "part_of_speech": ["verb", "noun"], 
+ 
+  "meanings": { 
+    "verb": [ 
+      { 
+        "definition": "To make a sudden involuntary expulsion of air from the nose and mouth due to irritation of one's nostrils", 
+        "example": "The dust made him sneeze." 
+      } 
+    ], 
+    "noun": [ 
+      { 
+        "definition": "An act or the sound of sneezing", 
+        "example": "She let out a loud sneeze." 
+      } 
+    ] 
+  }, 
+ 
+  "tense_forms": { 
+    "base": "sneeze", 
+    "past": "sneezed", 
+    "past_participle": "sneezed", 
+    "present_participle": "sneezing", 
+    "third_person": "sneezes" 
+  }, 
+ 
+  "synonyms": ["sternutation"], 
+  "antonyms": [], 
+  "usage_examples": [ 
+    "He covered his mouth when he felt a sneeze coming on." 
+  ] 
+}

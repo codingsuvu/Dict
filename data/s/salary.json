@@ -1,0 +1,34 @@
+{ 
+  "word": "salary", 
+  "phonetic": "/ˈsæləri/", 
+  "part_of_speech": ["noun", "verb"], 
+ 
+  "meanings": { 
+    "noun": [ 
+      { 
+        "definition": "A fixed regular payment, typically paid on a monthly or biweekly basis but often expressed as an annual sum, made by an employer to an employee", 
+        "example": "She received a substantial salary increase." 
+      } 
+    ], 
+    "verb": [ 
+      { 
+        "definition": "To pay a salary to", 
+        "example": "The employees are salaried on a monthly basis." 
+      } 
+    ] 
+  }, 
+ 
+  "tense_forms": { 
+    "base": "salary", 
+    "past": "salaried", 
+    "past_participle": "salaried", 
+    "present_participle": "salarying", 
+    "third_person": "salaries" 
+  }, 
+ 
+  "synonyms": ["wages", "pay", "earnings", "remuneration", "income"], 
+  "antonyms": [], 
+  "usage_examples": [ 
+    "He decided to save half of his salary." 
+  ] 
+}

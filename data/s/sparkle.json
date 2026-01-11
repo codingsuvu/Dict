@@ -1,0 +1,34 @@
+{ 
+  "word": "sparkle", 
+  "phonetic": "/ˈspɑːrkəl/", 
+  "part_of_speech": ["verb", "noun"], 
+ 
+  "meanings": { 
+    "verb": [ 
+      { 
+        "definition": "To shine brightly with flashes of light", 
+        "example": "Her jewelry sparkled under the lights." 
+      } 
+    ], 
+    "noun": [ 
+      { 
+        "definition": "A glittering flash of light", 
+        "example": "There was a sparkle in his eyes." 
+      } 
+    ] 
+  }, 
+ 
+  "tense_forms": { 
+    "base": "sparkle", 
+    "past": "sparkled", 
+    "past_participle": "sparkled", 
+    "present_participle": "sparkling", 
+    "third_person": "sparkles" 
+  }, 
+ 
+  "synonyms": ["glitter", "glisten", "twinkle", "shimmer", "flash"], 
+  "antonyms": ["dull", "fade"], 
+  "usage_examples": [ 
+    "The snow sparkled in the morning sun." 
+  ] 
+}

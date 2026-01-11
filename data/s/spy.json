@@ -1,0 +1,34 @@
+{
+  "word": "spy",
+  "phonetic": "/spaɪ/",
+  "part_of_speech": ["verb", "noun"],
+
+  "meanings": {
+    "verb": [
+      {
+        "definition": "To secretly observe or gather information about someone or something",
+        "example": "The agency sent an agent to spy on the enemy."
+      }
+    ],
+    "noun": [
+      {
+        "definition": "A person who secretly collects information about others",
+        "example": "The spy transmitted the data at night."
+      }
+    ]
+  },
+
+  "tense_forms": {
+    "base": "spy",
+    "past": "spied",
+    "past_participle": "spied",
+    "present_participle": "spying",
+    "third_person": "spies"
+  },
+
+  "synonyms": ["agent", "detective", "observe"],
+  "antonyms": ["ignore", "overlook"],
+  "usage_examples": [
+    "He was arrested for spying on confidential operations."
+  ]
+}

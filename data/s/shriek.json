@@ -1,0 +1,34 @@
+{ 
+  "word": "shriek", 
+  "phonetic": "/ʃriːk/", 
+  "part_of_speech": ["verb", "noun"], 
+ 
+  "meanings": { 
+    "verb": [ 
+      { 
+        "definition": "To utter a high-pitched piercing sound or words, especially as an expression of terror, pain, or excitement", 
+        "example": "The audience shrieked with laughter." 
+      } 
+    ], 
+    "noun": [ 
+      { 
+        "definition": "A high-pitched piercing sound", 
+        "example": "She let out a shriek of horror." 
+      } 
+    ] 
+  }, 
+ 
+  "tense_forms": { 
+    "base": "shriek", 
+    "past": "shrieked", 
+    "past_participle": "shrieked", 
+    "present_participle": "shrieking", 
+    "third_person": "shrieks" 
+  }, 
+ 
+  "synonyms": ["scream", "screech", "squeal", "yell", "cry"], 
+  "antonyms": ["whisper", "murmur"], 
+  "usage_examples": [ 
+    "We heard a loud shriek from the other room." 
+  ] 
+}

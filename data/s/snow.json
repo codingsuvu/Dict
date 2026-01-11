@@ -1,0 +1,34 @@
+{ 
+  "word": "snow", 
+  "phonetic": "/snoʊ/", 
+  "part_of_speech": ["noun", "verb"], 
+ 
+  "meanings": { 
+    "noun": [ 
+      { 
+        "definition": "Atmospheric water vapor frozen into ice crystals and falling in light white flakes or lying on the ground as a white layer", 
+        "example": "The mountains were covered in deep snow." 
+      } 
+    ], 
+    "verb": [ 
+      { 
+        "definition": "To fall as snow", 
+        "example": "It snowed heavily throughout the night." 
+      } 
+    ] 
+  }, 
+ 
+  "tense_forms": { 
+    "base": "snow", 
+    "past": "snowed", 
+    "past_participle": "snowed", 
+    "present_participle": "snowing", 
+    "third_person": "snows" 
+  }, 
+ 
+  "synonyms": ["snowfall", "flakes", "powder"], 
+  "antonyms": ["rain"], 
+  "usage_examples": [ 
+    "We built a snowman in the front yard." 
+  ] 
+}

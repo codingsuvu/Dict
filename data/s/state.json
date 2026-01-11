@@ -1,0 +1,34 @@
+{
+  "word": "state",
+  "phonetic": "/steɪt/",
+  "part_of_speech": ["verb", "noun"],
+
+  "meanings": {
+    "verb": [
+      {
+        "definition": "To express something clearly in words",
+        "example": "She stated her opinion during the meeting."
+      }
+    ],
+    "noun": [
+      {
+        "definition": "A condition or situation at a particular time",
+        "example": "The machine is in good working state."
+      }
+    ]
+  },
+
+  "tense_forms": {
+    "base": "state",
+    "past": "stated",
+    "past_participle": "stated",
+    "present_participle": "stating",
+    "third_person": "states"
+  },
+
+  "synonyms": ["declare", "condition", "express"],
+  "antonyms": ["deny", "conceal"],
+  "usage_examples": [
+    "The report stated the facts clearly."
+  ]
+}

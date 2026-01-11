@@ -1,0 +1,34 @@
+{
+  "word": "stop",
+  "phonetic": "/stɒp/",
+  "part_of_speech": ["verb", "noun"],
+
+  "meanings": {
+    "verb": [
+      {
+        "definition": "To cease moving or doing something",
+        "example": "Please stop talking when the teacher enters."
+      }
+    ],
+    "noun": [
+      {
+        "definition": "An act of halting or a place where something halts",
+        "example": "The bus made a stop near the school."
+      }
+    ]
+  },
+
+  "tense_forms": {
+    "base": "stop",
+    "past": "stopped",
+    "past_participle": "stopped",
+    "present_participle": "stopping",
+    "third_person": "stops"
+  },
+
+  "synonyms": ["halt", "cease", "end"],
+  "antonyms": ["continue", "proceed"],
+  "usage_examples": [
+    "The rain finally stopped in the evening."
+  ]
+}

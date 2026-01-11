@@ -1,0 +1,34 @@
+{ 
+  "word": "slap", 
+  "phonetic": "/slæp/", 
+  "part_of_speech": ["verb", "noun"], 
+ 
+  "meanings": { 
+    "verb": [ 
+      { 
+        "definition": "To hit someone or something with the palm of one's hand or a flat object", 
+        "example": "She slapped the mosquito on her arm." 
+      } 
+    ], 
+    "noun": [ 
+      { 
+        "definition": "A blow with the palm of the hand or a flat object", 
+        "example": "He gave the table a loud slap." 
+      } 
+    ] 
+  }, 
+ 
+  "tense_forms": { 
+    "base": "slap", 
+    "past": "slapped", 
+    "past_participle": "slapped", 
+    "present_participle": "slapping", 
+    "third_person": "slaps" 
+  }, 
+ 
+  "synonyms": ["smack", "hit", "strike", "whack", "cuff"], 
+  "antonyms": ["caress", "stroke"], 
+  "usage_examples": [ 
+    "The waves slapped against the side of the boat." 
+  ] 
+}

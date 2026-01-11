@@ -1,0 +1,34 @@
+{
+  "word": "store",
+  "phonetic": "/stɔːr/",
+  "part_of_speech": ["verb", "noun"],
+
+  "meanings": {
+    "verb": [
+      {
+        "definition": "To keep or save something for future use",
+        "example": "She stored the documents in a safe place."
+      }
+    ],
+    "noun": [
+      {
+        "definition": "A place where goods are kept or sold",
+        "example": "He bought groceries from the store."
+      }
+    ]
+  },
+
+  "tense_forms": {
+    "base": "store",
+    "past": "stored",
+    "past_participle": "stored",
+    "present_participle": "storing",
+    "third_person": "stores"
+  },
+
+  "synonyms": ["save", "keep", "shop"],
+  "antonyms": ["discard", "waste"],
+  "usage_examples": [
+    "The warehouse stores large quantities of grain."
+  ]
+}

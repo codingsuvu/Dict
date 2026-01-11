@@ -1,0 +1,34 @@
+{ 
+  "word": "slab", 
+  "phonetic": "/slæb/", 
+  "part_of_speech": ["noun", "verb"], 
+ 
+  "meanings": { 
+    "noun": [ 
+      { 
+        "definition": "A large, thick, flat piece of stone, concrete, or wood, typically square or rectangular", 
+        "example": "They laid a concrete slab for the patio." 
+      } 
+    ], 
+    "verb": [ 
+      { 
+        "definition": "To cover an area with slabs", 
+        "example": "The path was slabbed with limestone." 
+      } 
+    ] 
+  }, 
+ 
+  "tense_forms": { 
+    "base": "slab", 
+    "past": "slabbed", 
+    "past_participle": "slabbed", 
+    "present_participle": "slabbing", 
+    "third_person": "slabs" 
+  }, 
+ 
+  "synonyms": ["block", "chunk", "piece", "hunk", "slice"], 
+  "antonyms": [], 
+  "usage_examples": [ 
+    "He cut a thick slab of cheese for the sandwich." 
+  ] 
+}

@@ -1,0 +1,34 @@
+{
+  "word": "spin",
+  "phonetic": "/spɪn/",
+  "part_of_speech": ["verb", "noun"],
+
+  "meanings": {
+    "verb": [
+      {
+        "definition": "To turn or cause something to turn quickly around a central point",
+        "example": "She spun the wheel to start the game."
+      }
+    ],
+    "noun": [
+      {
+        "definition": "A rapid turning or twisting movement",
+        "example": "The ball took an unexpected spin."
+      }
+    ]
+  },
+
+  "tense_forms": {
+    "base": "spin",
+    "past": "spun",
+    "past_participle": "spun",
+    "present_participle": "spinning",
+    "third_person": "spins"
+  },
+
+  "synonyms": ["rotate", "twirl", "turn"],
+  "antonyms": ["stop", "halt"],
+  "usage_examples": [
+    "The dancer began to spin gracefully on the stage."
+  ]
+}

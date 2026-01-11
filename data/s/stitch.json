@@ -1,0 +1,34 @@
+{
+  "word": "stitch",
+  "phonetic": "/stɪtʃ/",
+  "part_of_speech": ["verb", "noun"],
+
+  "meanings": {
+    "verb": [
+      {
+        "definition": "To sew pieces of fabric together with thread",
+        "example": "She stitched the torn cloth carefully."
+      }
+    ],
+    "noun": [
+      {
+        "definition": "A loop of thread made in sewing",
+        "example": "The dress has neat stitches."
+      }
+    ]
+  },
+
+  "tense_forms": {
+    "base": "stitch",
+    "past": "stitched",
+    "past_participle": "stitched",
+    "present_participle": "stitching",
+    "third_person": "stitches"
+  },
+
+  "synonyms": ["sew", "join", "mend"],
+  "antonyms": ["tear", "rip"],
+  "usage_examples": [
+    "The tailor stitched the fabric quickly."
+  ]
+}

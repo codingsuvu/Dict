@@ -1,0 +1,34 @@
+{ 
+  "word": "soak", 
+  "phonetic": "/soʊk/", 
+  "part_of_speech": ["verb", "noun"], 
+ 
+  "meanings": { 
+    "verb": [ 
+      { 
+        "definition": "To make or become thoroughly wet by immersing in liquid", 
+        "example": "Soak the beans overnight." 
+      } 
+    ], 
+    "noun": [ 
+      { 
+        "definition": "An act of immersing someone or something in liquid for a period of time", 
+        "example": "I need a long soak in the bath." 
+      } 
+    ] 
+  }, 
+ 
+  "tense_forms": { 
+    "base": "soak", 
+    "past": "soaked", 
+    "past_participle": "soaked", 
+    "present_participle": "soaking", 
+    "third_person": "soaks" 
+  }, 
+ 
+  "synonyms": ["drench", "steep", "saturate", "immerse", "wet"], 
+  "antonyms": ["dry", "dehydrate"], 
+  "usage_examples": [ 
+    "The rain soaked his clothes completely." 
+  ] 
+}

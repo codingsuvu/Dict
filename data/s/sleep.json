@@ -1,0 +1,34 @@
+{ 
+  "word": "sleep", 
+  "phonetic": "/sliːp/", 
+  "part_of_speech": ["verb", "noun"], 
+ 
+  "meanings": { 
+    "verb": [ 
+      { 
+        "definition": "To rest with the eyes closed and the mind and body in a natural state of inactivity", 
+        "example": "I usually sleep for eight hours a night." 
+      } 
+    ], 
+    "noun": [ 
+      { 
+        "definition": "A natural periodic state of rest for the mind and body", 
+        "example": "He fell into a deep sleep." 
+      } 
+    ] 
+  }, 
+ 
+  "tense_forms": { 
+    "base": "sleep", 
+    "past": "slept", 
+    "past_participle": "slept", 
+    "present_participle": "sleeping", 
+    "third_person": "sleeps" 
+  }, 
+ 
+  "synonyms": ["slumber", "doze", "nap", "rest", "snooze"], 
+  "antonyms": ["wake", "awake"], 
+  "usage_examples": [ 
+    "Try to get some sleep before the trip." 
+  ] 
+}

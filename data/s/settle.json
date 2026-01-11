@@ -1,0 +1,34 @@
+{ 
+  "word": "settle", 
+  "phonetic": "/ˈsɛtl/", 
+  "part_of_speech": ["verb", "noun"], 
+ 
+  "meanings": { 
+    "verb": [ 
+      { 
+        "definition": "To resolve or reach an agreement about an argument or problem", 
+        "example": "They settled the dispute out of court." 
+      } 
+    ], 
+    "noun": [ 
+      { 
+        "definition": "A long wooden bench with a high back and arms, typically with a box underneath the seat", 
+        "example": "She sat on the oak settle near the fireplace." 
+      } 
+    ] 
+  }, 
+ 
+  "tense_forms": { 
+    "base": "settle", 
+    "past": "settled", 
+    "past_participle": "settled", 
+    "present_participle": "settling", 
+    "third_person": "settles" 
+  }, 
+ 
+  "synonyms": ["resolve", "decide", "establish", "calm", "colonize"], 
+  "antonyms": ["agitate", "disturb", "unsettle"], 
+  "usage_examples": [ 
+    "After years of traveling, they decided to settle in the countryside." 
+  ] 
+}

@@ -1,0 +1,34 @@
+{ 
+  "word": "sacrifice", 
+  "phonetic": "/ˈsækrɪfaɪs/", 
+  "part_of_speech": ["verb", "noun"], 
+ 
+  "meanings": { 
+    "verb": [ 
+      { 
+        "definition": "To give up something valued for the sake of other considerations", 
+        "example": "He sacrificed his personal life for his career." 
+      } 
+    ], 
+    "noun": [ 
+      { 
+        "definition": "An act of giving up something valued for the sake of something else regarded as more important or worthy", 
+        "example": "The parents made sacrifices for their children." 
+      } 
+    ] 
+  }, 
+ 
+  "tense_forms": { 
+    "base": "sacrifice", 
+    "past": "sacrificed", 
+    "past_participle": "sacrificed", 
+    "present_participle": "sacrificing", 
+    "third_person": "sacrifices" 
+  }, 
+ 
+  "synonyms": ["surrender", "forgo", "yield", "offering"], 
+  "antonyms": ["keep", "retain", "hold"], 
+  "usage_examples": [ 
+    "She was willing to sacrifice everything for peace." 
+  ] 
+}

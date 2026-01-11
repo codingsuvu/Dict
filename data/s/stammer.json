@@ -1,0 +1,35 @@
+{
+  "word": "stammer",
+  "phonetic": "/ˈstæmər/",
+  "part_of_speech": ["verb", "noun"],
+
+  "meanings": {
+    "verb": [
+      {
+        "definition": "To speak with repeated pauses or difficulty in producing words",
+        "example": "He began to stammer when asked a difficult question."
+      }
+    ],
+    "noun": [
+      {
+        "definition": "A speech disorder involving frequent pauses or repetitions",
+        "example": "His stammer made public speaking challenging."
+      }
+    ]
+  },
+
+  "tense_forms": {
+    "base": "stammer",
+    "past": "stammered",
+    "past_participle": "stammered",
+    "present_participle": "stammering",
+    "third_person": "stammers"
+  },
+
+  "synonyms": ["stutter", "hesitate", "falter"],
+  "antonyms": ["speak fluently", "articulate"],
+
+  "usage_examples": [
+    "She tried not to stammer during the interview."
+  ]
+}

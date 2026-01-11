@@ -1,0 +1,34 @@
+{ 
+  "word": "shadow", 
+  "phonetic": "/ˈʃædoʊ/", 
+  "part_of_speech": ["noun", "verb"], 
+ 
+  "meanings": { 
+    "noun": [ 
+      { 
+        "definition": "A dark area or shape produced by a body coming between rays of light and a surface", 
+        "example": "The tree cast a long shadow across the grass." 
+      } 
+    ], 
+    "verb": [ 
+      { 
+        "definition": "To follow and observe someone closely and secretly", 
+        "example": "The detective shadowed the suspect for days." 
+      } 
+    ] 
+  }, 
+ 
+  "tense_forms": { 
+    "base": "shadow", 
+    "past": "shadowed", 
+    "past_participle": "shadowed", 
+    "present_participle": "shadowing", 
+    "third_person": "shadows" 
+  }, 
+ 
+  "synonyms": ["shade", "silhouette", "follow", "trail", "stalk"], 
+  "antonyms": ["light", "brightness"], 
+  "usage_examples": [ 
+    "She felt like she was living in her sister's shadow." 
+  ] 
+}
