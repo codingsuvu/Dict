@@ -1,0 +1,31 @@
+{
+  "word": "zill",
+  "phonetic": "/zɪl/",
+  "part_of_speech": ["noun", "verb"],
+  "meanings": {
+    "noun": [
+      {
+        "definition": "A finger cymbal used in belly dancing",
+        "example": "The dancer struck her zills together in time with the music."
+      }
+    ],
+    "verb": [
+      {
+        "definition": "To play the finger cymbals",
+        "example": "She zilled along to the rhythm of the drums."
+      }
+    ]
+  },
+  "tense_forms": {
+    "base": "zill",
+    "past": "zilled",
+    "past_participle": "zilled",
+    "present_participle": "zilling",
+    "third_person": "zills"
+  },
+  "synonyms": ["cymbal", "finger cymbal"],
+  "antonyms": ["silence"],
+  "usage_examples": [
+    "The sound of zilling filled the room."
+  ]
+}

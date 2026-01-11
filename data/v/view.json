@@ -1,0 +1,34 @@
+{
+  "word": "view",
+  "phonetic": "/vjuː/",
+  "part_of_speech": ["verb", "noun"],
+
+  "meanings": {
+    "verb": [
+      {
+        "definition": "To look at or observe something carefully",
+        "example": "She viewed the painting closely."
+      }
+    ],
+    "noun": [
+      {
+        "definition": "The ability to see something or an opinion about something",
+        "example": "The hotel room has a beautiful view."
+      }
+    ]
+  },
+
+  "tense_forms": {
+    "base": "view",
+    "past": "viewed",
+    "past_participle": "viewed",
+    "present_participle": "viewing",
+    "third_person": "views"
+  },
+
+  "synonyms": ["see", "observe", "watch", "opinion"],
+  "antonyms": ["ignore", "overlook"],
+  "usage_examples": [
+    "We viewed the sunset from the hill."
+  ]
+}

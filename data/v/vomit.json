@@ -1,0 +1,35 @@
+{
+  "word": "vomit",
+  "phonetic": "/ˈvɒmɪt/",
+  "part_of_speech": ["verb", "noun"],
+
+  "meanings": {
+    "verb": [
+      {
+        "definition": "To eject the contents of the stomach through the mouth",
+        "example": "She felt sick and began to vomit."
+      }
+    ],
+    "noun": [
+      {
+        "definition": "The matter expelled from the stomach; puke",
+        "example": "There was vomit on the floor after the ride."
+      }
+    ]
+  },
+
+  "tense_forms": {
+    "base": "vomit",
+    "past": "vomited",
+    "past_participle": "vomited",
+    "present_participle": "vomiting",
+    "third_person": "vomits"
+  },
+
+  "synonyms": ["throw up", "regurgitate", "retch"],
+  "antonyms": ["ingest", "swallow"],
+  "usage_examples": [
+    "The child started to vomit after eating bad food.",
+    "He vomits whenever he gets motion sickness."
+  ]
+}

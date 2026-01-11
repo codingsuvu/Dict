@@ -1,0 +1,31 @@
+{
+  "word": "zoot",
+  "phonetic": "/zuːt/",
+  "part_of_speech": ["noun", "verb"],
+  "meanings": {
+    "noun": [
+      {
+        "definition": "A zoot suit; a style of clothing characterized by high-waisted, wide-legged trousers and a long coat",
+        "example": "He wore a vintage zoot to the costume party."
+      }
+    ],
+    "verb": [
+      {
+        "definition": "To dress in a zoot suit or stylishly; to move quickly (slang)",
+        "example": "He was zooted up for the night out."
+      }
+    ]
+  },
+  "tense_forms": {
+    "base": "zoot",
+    "past": "zooted",
+    "past_participle": "zooted",
+    "present_participle": "zooting",
+    "third_person": "zoots"
+  },
+  "synonyms": ["style", "dress up", "dash"],
+  "antonyms": ["undress"],
+  "usage_examples": [
+    "They zooted down the street in their new car."
+  ]
+}

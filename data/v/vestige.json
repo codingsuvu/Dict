@@ -1,0 +1,34 @@
+{
+  "word": "vestige",
+  "phonetic": "/ˈvɛstɪdʒ/",
+  "part_of_speech": ["noun", "verb"],
+
+  "meanings": {
+    "verb": [
+      {
+        "definition": "To leave a trace or small remaining part of something",
+        "example": "Ancient practices still vestige in modern rituals."
+      }
+    ],
+    "noun": [
+      {
+        "definition": "A small remaining part of something that existed before",
+        "example": "Only a few vestiges of the ancient wall remain."
+      }
+    ]
+  },
+  
+  "tense_forms": {
+    "base": "vestige",
+    "past": "vestiged",
+    "past_participle": "vestiged",
+    "present_participle": "vestiging",
+    "third_person": "vestiges"
+  },
+  "synonyms": ["remnant", "trace", "remains", "residue"],
+  "antonyms": ["whole", "entirety", "totality", "absence"],
+  "usage_examples": [
+    "The museum preserves vestiges of past civilizations.",
+    "The old customs survived only as vestiges of former traditions."
+  ]
+}

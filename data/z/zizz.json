@@ -1,0 +1,31 @@
+{
+  "word": "zizz",
+  "phonetic": "/zɪz/",
+  "part_of_speech": ["noun", "verb"],
+  "meanings": {
+    "noun": [
+      {
+        "definition": "A buzzing or whizzing sound; a short sleep or nap",
+        "example": "I'm going to have a quick zizz before dinner."
+      }
+    ],
+    "verb": [
+      {
+        "definition": "To make a buzzing sound; to take a nap",
+        "example": "The bees zizzed around the flowers."
+      }
+    ]
+  },
+  "tense_forms": {
+    "base": "zizz",
+    "past": "zizzed",
+    "past_participle": "zizzed",
+    "present_participle": "zizzing",
+    "third_person": "zizzes"
+  },
+  "synonyms": ["buzz", "hum", "nap", "snooze"],
+  "antonyms": ["silence", "wake"],
+  "usage_examples": [
+    "The insects zizzed in the summer heat."
+  ]
+}

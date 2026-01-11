@@ -1,0 +1,31 @@
+{
+  "word": "zen",
+  "phonetic": "/zen/",
+  "part_of_speech": ["noun", "verb"],
+  "meanings": {
+    "noun": [
+      {
+        "definition": "A state of calm attentiveness; a school of Mahayana Buddhism",
+        "example": "She found her zen while gardening."
+      }
+    ],
+    "verb": [
+      {
+        "definition": "To relax or become calm, often used with 'out'",
+        "example": "I need to zen out after this stressful week."
+      }
+    ]
+  },
+  "tense_forms": {
+    "base": "zen",
+    "past": "zenned",
+    "past_participle": "zenned",
+    "present_participle": "zenning",
+    "third_person": "zens"
+  },
+  "synonyms": ["calm", "peace", "relax", "meditate"],
+  "antonyms": ["stress", "agitation", "worry"],
+  "usage_examples": [
+    "He tried to zen his mind before the competition."
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "word": "voice",
+  "phonetic": "/vɔɪs/",
+  "part_of_speech": ["noun", "verb"],
+  "meanings": {
+    "noun": [
+      {
+        "definition": "The sound produced in a person's larynx and uttered through the mouth",
+        "example": "She has a beautiful singing voice."
+      }
+    ],
+    "verb": [
+      {
+        "definition": "To express something in words; to give utterance to",
+        "example": "He voiced his concerns about the new policy."
+      }
+    ]
+  },
+  "tense_forms": {
+    "base": "voice",
+    "past": "voiced",
+    "past_participle": "voiced",
+    "present_participle": "voicing",
+    "third_person": "voices"
+  },
+  "synonyms": ["sound", "utterance", "express", "articulate"],
+  "antonyms": ["silence", "suppress"],
+  "usage_examples": [
+    "The citizens voiced their opinions at the town hall meeting."
+  ]
+}

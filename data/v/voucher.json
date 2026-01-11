@@ -1,0 +1,32 @@
+{
+  "word": "voucher",
+  "phonetic": "/ˈvaʊtʃər/",
+  "part_of_speech": ["noun", "verb"],
+  "meanings": {
+    "verb": [
+      {
+        "definition": "To provide or use a voucher (informal/constructed usage)",
+        "example": "They vouchered the discount at the checkout counter."
+      }
+    ],
+    "noun": [
+      {
+        "definition": "A small printed piece of paper that entitles the holder to a discount, exchange, or payment",
+        "example": "She used a voucher to get 20% off her purchase."
+      }
+    ]
+  },
+  "tense_forms": {
+    "base": "voucher",
+    "past": "vouchered",
+    "past_participle": "vouchered",
+    "present_participle": "vouchering",
+    "third_person": "vouchers"
+  },
+  "synonyms": ["coupon", "ticket", "certificate", "receipt"],
+  "antonyms": ["charge", "debt"],
+  "usage_examples": [
+    "He redeemed the meal voucher before it expired.",
+    "Many stores accept digital vouchers as well as printed ones."
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "word": "zero",
+  "phonetic": "/ˈzɪəroʊ/",
+  "part_of_speech": ["noun", "verb"],
+  "meanings": {
+    "noun": [
+      {
+        "definition": "The number 0; the absence of any quantity",
+        "example": "The temperature dropped to zero last night."
+      }
+    ],
+    "verb": [
+      {
+        "definition": "To aim or adjust precisely; to set to zero",
+        "example": "The telescope was zeroed in on the star."
+      }
+    ]
+  },
+  "tense_forms": {
+    "base": "zero",
+    "past": "zeroed",
+    "past_participle": "zeroed",
+    "present_participle": "zeroing",
+    "third_person": "zeros"
+  },
+  "synonyms": ["nought", "nil", "null", "reset"],
+  "antonyms": ["one", "full", "maximum"],
+  "usage_examples": [
+    "The thermometer read zero degrees Celsius at dawn."
+  ]
+}

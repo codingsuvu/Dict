@@ -1,0 +1,31 @@
+{
+  "word": "zinc",
+  "phonetic": "/zɪŋk/",
+  "part_of_speech": ["noun", "verb"],
+  "meanings": {
+    "noun": [
+      {
+        "definition": "A bluish-white metallic element used in alloys and for galvanizing iron or steel",
+        "example": "The pipes were coated with zinc to prevent rusting."
+      }
+    ],
+    "verb": [
+      {
+        "definition": "To coat with zinc, especially for preventing rust",
+        "example": "The manufacturer zincs the steel sheets before shipping."
+      }
+    ]
+  },
+  "tense_forms": {
+    "base": "zinc",
+    "past": "zinced",
+    "past_participle": "zinced",
+    "present_participle": "zincing",
+    "third_person": "zincs"
+  },
+  "synonyms": ["galvanize", "metal", "alloy"],
+  "antonyms": [],
+  "usage_examples": [
+    "Zinc is an essential component in batteries and galvanization."
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "word": "zephyr",
+  "phonetic": "/ˈzefər/",
+  "part_of_speech": ["noun", "verb"],
+  "meanings": {
+    "noun": [
+      {
+        "definition": "A soft, gentle breeze; a fine, light fabric",
+        "example": "A warm zephyr blew through the open window."
+      }
+    ],
+    "verb": [
+      {
+        "definition": "To blow gently like a breeze",
+        "example": "The wind zephyred across the meadow."
+      }
+    ]
+  },
+  "tense_forms": {
+    "base": "zephyr",
+    "past": "zephyred",
+    "past_participle": "zephyred",
+    "present_participle": "zephyring",
+    "third_person": "zephyrs"
+  },
+  "synonyms": ["breeze", "wind", "breath", "waft"],
+  "antonyms": ["gale", "storm", "hurricane"],
+  "usage_examples": [
+    "The curtains moved as the air zephyred into the room."
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "word": "visit",
+  "phonetic": "/ˈvɪzɪt/",
+  "part_of_speech": ["verb", "noun"],
+
+  "meanings": {
+    "verb": [
+      {
+        "definition": "To go to see someone or somewhere for a short time",
+        "example": "We plan to visit our grandparents this weekend."
+      }
+    ],
+    "noun": [
+      {
+        "definition": "An occasion when someone goes to see a person or place",
+        "example": "Her visit to the museum was very enjoyable."
+      }
+    ]
+  },
+
+  "tense_forms": {
+    "base": "visit",
+    "past": "visited",
+    "past_participle": "visited",
+    "present_participle": "visiting",
+    "third_person": "visits"
+  },
+
+  "synonyms": ["call on", "see", "attend"],
+  "antonyms": ["avoid", "neglect"],
+  "usage_examples": [
+    "The doctor will visit the patients in the afternoon.",
+    "Our visit to the new park was refreshing."
+  ]
+}

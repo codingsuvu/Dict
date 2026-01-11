@@ -1,0 +1,31 @@
+{
+  "word": "vacuum",
+  "phonetic": "/ˈvækjuːm/",
+  "part_of_speech": ["noun", "verb"],
+  "meanings": {
+    "noun": [
+      {
+        "definition": "A space entirely devoid of matter; a device used for cleaning by suction",
+        "example": "Space is a near-perfect vacuum."
+      }
+    ],
+    "verb": [
+      {
+        "definition": "To clean with a vacuum cleaner",
+        "example": "He vacuumed the carpet before the guests arrived."
+      }
+    ]
+  },
+  "tense_forms": {
+    "base": "vacuum",
+    "past": "vacuumed",
+    "past_participle": "vacuumed",
+    "present_participle": "vacuuming",
+    "third_person": "vacuums"
+  },
+  "synonyms": ["void", "emptiness", "clean", "suction"],
+  "antonyms": ["plenum", "fullness"],
+  "usage_examples": [
+    "She needs to vacuum the living room."
+  ]
+}

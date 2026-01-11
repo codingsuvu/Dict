@@ -1,0 +1,32 @@
+{
+  "word": "villain",
+  "phonetic": "/ˈvɪlən/",
+  "part_of_speech": ["noun", "verb"],
+  "meanings": {
+    "verb": [
+      {
+        "definition": "To behave like a villain; to act in a wicked or harmful way",
+        "example": "In the story, the corrupt official villained his way through every negotiation."
+      }
+    ],
+    "noun": [
+      {
+        "definition": "A character in a story, play, or situation who opposes the hero and engages in wrongdoing",
+        "example": "The villain plotted to overthrow the kingdom."
+      }
+    ]
+  },
+  "tense_forms": {
+    "base": "villain",
+    "past": "villained",
+    "past_participle": "villained",
+    "present_participle": "villaining",
+    "third_person": "villains"
+  },
+  "synonyms": ["antagonist", "bad person", "wrongdoer", "baddie"],
+  "antonyms": ["hero", "protagonist", "good person"],
+  "usage_examples": [
+    "The movie’s villain was unforgettable for his cunning plans.",
+    "She accused her rival of villaining every chance he got."
+  ]
+}

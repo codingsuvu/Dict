@@ -1,0 +1,31 @@
+{
+  "word": "zonk",
+  "phonetic": "/zɒŋk/",
+  "part_of_speech": ["verb", "noun"],
+  "meanings": {
+    "verb": [
+      {
+        "definition": "To exhaust completely or make someone very tired",
+        "example": "The long journey zonked him out."
+      }
+    ],
+    "noun": [
+      {
+        "definition": "A sudden blow or impact that causes collapse or unconsciousness",
+        "example": "The boxer delivered a powerful zonk."
+      }
+    ]
+  },
+  "tense_forms": {
+    "base": "zonk",
+    "past": "zonked",
+    "past_participle": "zonked",
+    "present_participle": "zonking",
+    "third_person": "zonks"
+  },
+  "synonyms": ["exhaust", "knock out", "drain"],
+  "antonyms": ["energize", "refresh"],
+  "usage_examples": [
+    "After studying all night, she felt completely zonked."
+  ]
+}

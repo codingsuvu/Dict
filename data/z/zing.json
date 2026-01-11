@@ -1,0 +1,31 @@
+{
+  "word": "zing",
+  "phonetic": "/zɪŋ/",
+  "part_of_speech": ["noun", "verb"],
+  "meanings": {
+    "noun": [
+      {
+        "definition": "A lively, energetic quality or a striking effect",
+        "example": "Her speech had a lot of zing that kept the audience engaged."
+      }
+    ],
+    "verb": [
+      {
+        "definition": "To move swiftly or make a sharp, high-pitched sound",
+        "example": "The arrow zinged past us."
+      }
+    ]
+  },
+  "tense_forms": {
+    "base": "zing",
+    "past": "zinged",
+    "past_participle": "zinged",
+    "present_participle": "zinging",
+    "third_person": "zings"
+  },
+  "synonyms": ["sparkle", "vigor", "energy", "whiz"],
+  "antonyms": ["dullness", "slowness", "flatness"],
+  "usage_examples": [
+    "The comedian’s quick wit added zing to the performance."
+  ]
+}

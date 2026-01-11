@@ -1,0 +1,34 @@
+{
+  "word": "vary",
+  "phonetic": "/ˈveri/",
+  "part_of_speech": ["verb", "noun"],
+
+  "meanings": {
+    "verb": [
+      {
+        "definition": "To change or differ in some way",
+        "example": "The prices of vegetables vary from market to market."
+      }
+    ],
+    "noun": [
+      {
+        "definition": "A change or difference in condition, amount, or level",
+        "example": "There is a slight vary in temperature between the two rooms."
+      }
+    ]
+  },
+
+  "tense_forms": {
+    "base": "vary",
+    "past": "varied",
+    "past_participle": "varied",
+    "present_participle": "varying",
+    "third_person": "varies"
+  },
+
+  "synonyms": ["change", "differ", "fluctuate"],
+  "antonyms": ["remain", "stay"],
+  "usage_examples": [
+    "The results may vary depending on the method used."
+  ]
+}

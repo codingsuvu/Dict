@@ -1,0 +1,34 @@
+{
+  "word": "ventilate",
+  "phonetic": "/ˈventɪleɪt/",
+  "part_of_speech": ["verb", "noun"],
+
+  "meanings": {
+    "verb": [
+      {
+        "definition": "To allow fresh air to enter a room or space",
+        "example": "Please ventilate the room before the meeting."
+      }
+    ],
+    "noun": [
+      {
+        "definition": "The act or system of providing fresh air",
+        "example": "Proper ventilate in hospitals is essential for health."
+      }
+    ]
+  },
+
+  "tense_forms": {
+    "base": "ventilate",
+    "past": "ventilated",
+    "past_participle": "ventilated",
+    "present_participle": "ventilating",
+    "third_person": "ventilates"
+  },
+
+  "synonyms": ["air", "freshen", "circulate"],
+  "antonyms": ["stifle", "suffocate"],
+  "usage_examples": [
+    "The engineers ventilated the underground tunnel to remove smoke."
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "word": "zig",
+  "phonetic": "/zɪɡ/",
+  "part_of_speech": ["noun", "verb"],
+  
+  "meanings": {
+    "noun": [
+      {
+        "definition": "A sharp turn or change of direction, typically part of a zigzag pattern",
+        "example": "The cyclist made a quick zig to avoid the pothole."
+      }
+    ],
+    "verb": [
+      {
+        "definition": "To make a sharp turn or change direction",
+        "example": "The car zigged across the road to avoid hitting the obstacle."
+      }
+    ]
+  },
+
+  "tense_forms": {
+    "base": "zig",
+    "past": "zigged",
+    "past_participle": "zigged",
+    "present_participle": "zigging",
+    "third_person": "zigs"
+  },
+  "synonyms": ["swerve", "turn", "twist"],
+  "antonyms": ["straighten", "proceed"],
+  "usage_examples": [
+    "The skier zigged down the slope to dodge the trees."
+  ]
+}

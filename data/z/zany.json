@@ -1,0 +1,31 @@
+{
+  "word": "zany",
+  "phonetic": "/ˈzeɪni/",
+  "part_of_speech": ["noun", "verb"],
+  "meanings": {
+    "noun": [
+      {
+        "definition": "A buffoon or clown; a person who acts foolishly to amuse others",
+        "example": "He played the zany to entertain the crowd."
+      }
+    ],
+    "verb": [
+      {
+        "definition": "To mimic or play the fool",
+        "example": "Stop zanying around and get to work."
+      }
+    ]
+  },
+  "tense_forms": {
+    "base": "zany",
+    "past": "zanied",
+    "past_participle": "zanied",
+    "present_participle": "zanying",
+    "third_person": "zanies"
+  },
+  "synonyms": ["clown", "fool", "mimic", "jester"],
+  "antonyms": ["serious person", "stoic"],
+  "usage_examples": [
+    "The comedian was known as a lovable zany."
+  ]
+}

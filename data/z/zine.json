@@ -1,0 +1,31 @@
+{
+  "word": "zine",
+  "phonetic": "/ziːn/",
+  "part_of_speech": ["noun", "verb"],
+  "meanings": {
+    "noun": [
+      {
+        "definition": "A small-circulation self-published work of original or appropriated texts and images",
+        "example": "She bought a zine about local punk bands."
+      }
+    ],
+    "verb": [
+      {
+        "definition": "To create, publish, or distribute zines",
+        "example": "They have been zining together for years."
+      }
+    ]
+  },
+  "tense_forms": {
+    "base": "zine",
+    "past": "zined",
+    "past_participle": "zined",
+    "present_participle": "zining",
+    "third_person": "zines"
+  },
+  "synonyms": ["fanzine", "pamphlet", "booklet"],
+  "antonyms": ["mainstream magazine"],
+  "usage_examples": [
+    "The festival celebrates the art of zining."
+  ]
+}

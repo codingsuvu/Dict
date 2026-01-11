@@ -1,0 +1,35 @@
+{
+  "word": "verify",
+  "phonetic": "/ˈverɪfaɪ/",
+  "part_of_speech": ["verb", "noun"],
+
+  "meanings": {
+    "verb": [
+      {
+        "definition": "To make sure or demonstrate that something is true or accurate",
+        "example": "Please verify your email address before continuing."
+      }
+    ],
+    "noun": [
+      {
+        "definition": "The process of checking or proving that something is true or accurate",
+        "example": "The verification of the documents took several hours."
+      }
+    ]
+  },
+
+  "tense_forms": {
+    "base": "verify",
+    "past": "verified",
+    "past_participle": "verified",
+    "present_participle": "verifying",
+    "third_person": "verifies"
+  },
+
+  "synonyms": ["confirm", "validate", "authenticate"],
+  "antonyms": ["falsify", "deny"],
+  "usage_examples": [
+    "The technician verified that the system was working properly.",
+    "Document verification is required before approval."
+  ]
+}

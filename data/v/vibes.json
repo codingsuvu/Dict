@@ -1,0 +1,34 @@
+{
+  "word": "vibes",
+  "phonetic": "/ˈvaɪbz/",
+  "part_of_speech": ["noun", "verb"],
+
+  "meanings": {
+    "verb": [
+      {
+        "definition": "Informally, to share or feel a particular mood or energy with someone",
+        "example": "They were vibing all night at the party."
+      }
+    ],
+    "noun": [
+      {
+        "definition": "Feelings, atmosphere, or emotional impression associated with a person, place, or situation",
+        "example": "The café gave off relaxing vibes."
+      }
+    ]
+  },
+  
+  "tense_forms": {
+    "base": "vibe",
+    "past": "vibed",
+    "past_participle": "vibed",
+    "present_participle": "vibing",
+    "third_person": "vibes"
+  },
+  "synonyms": ["feelings", "mood", "atmosphere", "energy", "aura"],
+  "antonyms": ["indifference", "flatness"],
+  "usage_examples": [
+    "The party had great vibes all night.",
+    "I’m not feeling the right vibes here."
+  ]
+}

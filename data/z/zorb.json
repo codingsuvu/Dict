@@ -1,0 +1,31 @@
+{
+  "word": "zorb",
+  "phonetic": "/zɔːrb/",
+  "part_of_speech": ["noun", "verb"],
+  "meanings": {
+    "verb": [
+      {
+        "definition": "To roll or move inside a large transparent ball, especially for recreation",
+        "example": "They zorbed down the grassy hill."
+      }
+    ],
+    "noun": [
+      {
+        "definition": "A large transparent plastic ball used for rolling down hills as a recreational activity",
+        "example": "The zorb bounced safely as it rolled downhill."
+      }
+    ]
+  },
+  "tense_forms": {
+    "base": "zorb",
+    "past": "zorbed",
+    "past_participle": "zorbed",
+    "present_participle": "zorbing",
+    "third_person": "zorbs"
+  },
+  "synonyms": ["roll", "tumble"],
+  "antonyms": ["stay", "stand still"],
+  "usage_examples": [
+    "Tourists love to zorb during adventure sports festivals."
+  ]
+}

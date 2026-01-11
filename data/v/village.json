@@ -1,0 +1,32 @@
+{
+  "word": "village",
+  "phonetic": "/ˈvɪlɪdʒ/",
+  "part_of_speech": ["noun", "verb"],
+  "meanings": {
+    "verb": [
+      {
+        "definition": "To form or settle like a village; to organize a community in a village-like manner",
+        "example": "The pioneers villaged along the river, building homes close together."
+      }
+    ],
+    "noun": [
+      {
+        "definition": "A settlement usually larger than a hamlet and smaller than a town, typically in a rural area",
+        "example": "They live in a little village outside the city."
+      }
+    ]
+  },
+  "tense_forms": {
+    "base": "village",
+    "past": "villaged",
+    "past_participle": "villaged",
+    "present_participle": "villaging",
+    "third_person": "villages"
+  },
+  "synonyms": ["hamlet", "settlement", "community", "rural community"],
+  "antonyms": ["city", "metropolis", "urban area"],
+  "usage_examples": [
+    "The children walked to school through the village every morning.",
+    "The pioneers villaged along the river to create a close-knit community."
+  ]
+}

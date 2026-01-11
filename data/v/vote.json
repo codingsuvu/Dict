@@ -1,0 +1,35 @@
+{
+  "word": "vote",
+  "phonetic": "/voʊt/",
+  "part_of_speech": ["verb", "noun"],
+
+  "meanings": {
+    "verb": [
+      {
+        "definition": "To express a choice or opinion in an election or decision",
+        "example": "They will vote in the election tomorrow."
+      }
+    ],
+    "noun": [
+      {
+        "definition": "An act of expressing a choice or opinion, especially in an election",
+        "example": "Every citizen has the right to a vote."
+      }
+    ]
+  },
+
+  "tense_forms": {
+    "base": "vote",
+    "past": "voted",
+    "past_participle": "voted",
+    "present_participle": "voting",
+    "third_person": "votes"
+  },
+
+  "synonyms": ["ballot", "cast a ballot", "choose"],
+  "antonyms": ["abstain", "refrain"],
+  "usage_examples": [
+    "We will vote on the new proposal next week.",
+    "She voted for the reform package."
+  ]
+}

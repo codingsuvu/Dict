@@ -1,0 +1,33 @@
+{
+  "word": "zipper",
+  "phonetic": "/ˈzɪpər/",
+  "part_of_speech": ["noun", "verb"],
+  
+  "meanings": {
+    "noun": [
+      {
+        "definition": "A device used for fastening clothes or bags, consisting of two strips of fabric with interlocking metal or plastic teeth",
+        "example": "The zipper on my jacket is stuck."
+      }
+    ],
+    "verb": [
+      {
+        "definition": "To fasten or close something with a zipper",
+        "example": "She zipped up her coat before going outside."
+      }
+    ]
+  },
+
+  "tense_forms": {
+    "base": "zipper",
+    "past": "zippered",
+    "past_participle": "zippered",
+    "present_participle": "zippering",
+    "third_person": "zippers"
+  },
+  "synonyms": ["fastener", "zip"],
+  "antonyms": ["unfasten", "open"],
+  "usage_examples": [
+    "He quickly zipped the zipper of his backpack."
+  ]
+}

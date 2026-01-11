@@ -1,0 +1,32 @@
+{
+  "word": "vision",
+  "phonetic": "/ˈvɪʒən/",
+  "part_of_speech": ["noun", "verb"],
+  "meanings": {
+    "verb": [
+      {
+        "definition": "To imagine or foresee something in the future",
+        "example": "She visions a world where technology enhances education for all." 
+      }
+    ],
+    "noun": [
+      {
+        "definition": "The faculty or power of seeing; sight",
+        "example": "His vision deteriorated over the years."
+      }
+    ]
+  },
+  "tense_forms": {
+    "base": "vision",
+    "past": "visioned",
+    "past_participle": "visioned",
+    "present_participle": "visioning",
+    "third_person": "visions"
+  },
+  "synonyms": ["sight", "foresight", "imagination", "perception"],
+  "antonyms": ["blindness", "ignorance"],
+  "usage_examples": [
+    "She had a clear vision of what she wanted to do.",
+    "The CEO presented her vision for the company’s growth over the next decade."
+  ]
+}

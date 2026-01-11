@@ -1,0 +1,31 @@
+{
+  "word": "zigzag",
+  "phonetic": "/ˈzɪɡˌzæɡ/",
+  "part_of_speech": ["noun", "verb"],
+  "meanings": {
+    "noun": [
+      {
+        "definition": "A pattern or course that proceeds with sharp turns first to one side and then the other",
+        "example": "The road followed a zigzag up the mountain."
+      }
+    ],
+    "verb": [
+      {
+        "definition": "To move or proceed in a zigzag course",
+        "example": "The car zigzagged through the traffic."
+      }
+    ]
+  },
+  "tense_forms": {
+    "base": "zigzag",
+    "past": "zigzagged",
+    "past_participle": "zigzagged",
+    "present_participle": "zigzagging",
+    "third_person": "zigzags"
+  },
+  "synonyms": ["serpentine", "meandering", "sinuous"],
+  "antonyms": ["straight", "direct", "linear"],
+  "usage_examples": [
+    "The hiker zigzagged up the steep hill to make the climb easier."
+  ]
+}

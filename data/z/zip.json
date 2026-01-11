@@ -1,0 +1,31 @@
+{
+  "word": "zip",
+  "phonetic": "/zɪp/",
+  "part_of_speech": ["verb", "noun"],
+  "meanings": {
+    "verb": [
+      {
+        "definition": "To move quickly or to fasten with a zipper",
+        "example": "Please zip your jacket before going outside."
+      }
+    ],
+    "noun": [
+      {
+        "definition": "A device used to fasten clothing or bags, also called a zipper",
+        "example": "The zip on my bag is broken."
+      }
+    ]
+  },
+  "tense_forms": {
+    "base": "zip",
+    "past": "zipped",
+    "past_participle": "zipped",
+    "present_participle": "zipping",
+    "third_person": "zips"
+  },
+  "synonyms": ["fasten", "close", "speed"],
+  "antonyms": ["open", "unfasten"],
+  "usage_examples": [
+    "She zipped through the exam confidently."
+  ]
+}

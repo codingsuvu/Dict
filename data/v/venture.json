@@ -1,0 +1,34 @@
+{
+  "word": "venture",
+  "phonetic": "/ˈventʃər/",
+  "part_of_speech": ["verb", "noun"],
+
+  "meanings": {
+    "verb": [
+      {
+        "definition": "To undertake a risky or daring journey or action",
+        "example": "She ventured into the dark forest despite the warnings."
+      }
+    ],
+    "noun": [
+      {
+        "definition": "A risky or daring undertaking, especially in business",
+        "example": "Starting a new company is always a risky venture."
+      }
+    ]
+  },
+
+  "tense_forms": {
+    "base": "venture",
+    "past": "ventured",
+    "past_participle": "ventured",
+    "present_participle": "venturing",
+    "third_person": "ventures"
+  },
+
+  "synonyms": ["risk", "undertake", "dare"],
+  "antonyms": ["avoid", "shun"],
+  "usage_examples": [
+    "They decided to venture into new markets despite the uncertainty."
+  ]
+}

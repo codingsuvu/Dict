@@ -1,0 +1,31 @@
+{
+  "word": "zombie",
+  "phonetic": "/ˈzɒmbi/",
+  "part_of_speech": ["noun", "verb"],
+  "meanings": {
+    "noun": [
+      {
+        "definition": "A reanimated corpse; a person who is unresponsive or listless",
+        "example": "He walked around like a zombie after staying up all night."
+      }
+    ],
+    "verb": [
+      {
+        "definition": "To move or behave in a listless or unresponsive manner",
+        "example": "He zombied through the morning meeting without saying a word."
+      }
+    ]
+  },
+  "tense_forms": {
+    "base": "zombie",
+    "past": "zombied",
+    "past_participle": "zombied",
+    "present_participle": "zombieing",
+    "third_person": "zombies"
+  },
+  "synonyms": ["undead", "sleepwalker", "automaton"],
+  "antonyms": ["human", "lively person"],
+  "usage_examples": [
+    "The tired students zombied into the classroom."
+  ]
+}

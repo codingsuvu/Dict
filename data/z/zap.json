@@ -1,0 +1,31 @@
+{
+  "word": "zap",
+  "phonetic": "/zæp/",
+  "part_of_speech": ["verb", "noun"],
+  "meanings": {
+    "verb": [
+      {
+        "definition": "To strike or destroy suddenly with energy or electricity",
+        "example": "The laser can zap small targets instantly."
+      }
+    ],
+    "noun": [
+      {
+        "definition": "A sudden burst of energy, electricity, or power",
+        "example": "There was a loud zap when the wire touched the socket."
+      }
+    ]
+  },
+  "tense_forms": {
+    "base": "zap",
+    "past": "zapped",
+    "past_participle": "zapped",
+    "present_participle": "zapping",
+    "third_person": "zaps"
+  },
+  "synonyms": ["strike", "shock", "blast"],
+  "antonyms": ["heal", "restore"],
+  "usage_examples": [
+    "Be careful not to zap the device with static electricity."
+  ]
+}

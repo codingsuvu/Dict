@@ -1,0 +1,34 @@
+{
+  "word": "vegetarian",
+  "phonetic": "/ˌvɛdʒəˈtɛəriən/",
+  "part_of_speech": ["adjective", "noun"],
+  
+  "meanings": {
+    "verb": [
+      {
+        "definition": "To adopt a vegetarian diet (informal/constructed usage)",
+        "example": "They decided to vegetarian after watching the documentary on animal welfare."
+      }
+    ],
+    "noun": [
+      {
+        "definition": "A person who does not eat meat, and sometimes other animal products, especially for health or ethical reasons",
+        "example": "She has been a vegetarian for five years."
+      }
+    ]
+  },
+
+  "tense_forms": {
+    "base": "vegetarian",
+    "past": "vegetarianed",
+    "past_participle": "vegetarianed",
+    "present_participle": "vegetarianing",
+    "third_person": "vegetarians"
+  },
+  "synonyms": ["plant‑based eater", "veg eater", "meat‑free eater"],
+  "antonyms": ["meat‑eater", "carnivore"],
+  "usage_examples": [
+    "As a vegetarian, he always checks menus for meat‑free options.",
+    "Many people choose to become a vegetarian for health or environmental reasons."
+  ]
+}

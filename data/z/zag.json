@@ -1,0 +1,31 @@
+{
+  "word": "zag",
+  "phonetic": "/zæɡ/",
+  "part_of_speech": ["noun", "verb"],
+  "meanings": {
+    "noun": [
+      {
+        "definition": "A sharp change of direction, especially one of a series in a zigzag course",
+        "example": "The path took a sudden zag to the left."
+      }
+    ],
+    "verb": [
+      {
+        "definition": "To make a sharp change of direction",
+        "example": "The rabbit zagged to escape the fox."
+      }
+    ]
+  },
+  "tense_forms": {
+    "base": "zag",
+    "past": "zagged",
+    "past_participle": "zagged",
+    "present_participle": "zagging",
+    "third_person": "zags"
+  },
+  "synonyms": ["turn", "swerve", "veer"],
+  "antonyms": ["straighten"],
+  "usage_examples": [
+    "He zigged when he should have zagged."
+  ]
+}

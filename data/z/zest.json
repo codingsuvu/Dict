@@ -1,0 +1,31 @@
+{
+  "word": "zest",
+  "phonetic": "/zest/",
+  "part_of_speech": ["noun", "verb"],
+  "meanings": {
+    "verb": [
+      {
+        "definition": "To add enthusiasm, excitement, or flavor to something",
+        "example": "She tried to zest up the presentation with visuals."
+      }
+    ],
+    "noun": [
+      {
+        "definition": "Great enthusiasm and energy",
+        "example": "He completed the project with zest."
+      }
+    ]
+  },
+  "tense_forms": {
+    "base": "zest",
+    "past": "zested",
+    "past_participle": "zested",
+    "present_participle": "zesting",
+    "third_person": "zests"
+  },
+  "synonyms": ["enthusiasm", "energy", "flavor"],
+  "antonyms": ["apathy", "dullness"],
+  "usage_examples": [
+    "She approached her new job with zest."
+  ]
+}

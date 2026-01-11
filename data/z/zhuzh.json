@@ -1,0 +1,31 @@
+{
+  "word": "zhuzh",
+  "phonetic": "/ʒʊʒ/",
+  "part_of_speech": ["verb", "noun"],
+  "meanings": {
+    "verb": [
+      {
+        "definition": "To make something more stylish, lively, or attractive, often used with 'up'",
+        "example": "She decided to zhuzh up the living room with some colorful pillows."
+      }
+    ],
+    "noun": [
+      {
+        "definition": "An act of improving something or adding style",
+        "example": "The outfit just needs a little zhuzh."
+      }
+    ]
+  },
+  "tense_forms": {
+    "base": "zhuzh",
+    "past": "zhuzhed",
+    "past_participle": "zhuzhed",
+    "present_participle": "zhuzhing",
+    "third_person": "zhuzhes"
+  },
+  "synonyms": ["spruce up", "style", "enhance", "primp"],
+  "antonyms": ["dull", "simplify"],
+  "usage_examples": [
+    "A little bit of styling gel can zhuzh your hair."
+  ]
+}

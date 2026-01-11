@@ -1,0 +1,35 @@
+{
+  "word": "vanish",
+  "phonetic": "/ˈvænɪʃ/",
+  "part_of_speech": ["verb", "noun"],
+
+  "meanings": {
+    "verb": [
+      {
+        "definition": "To disappear suddenly or completely",
+        "example": "The magician made the rabbit vanish from the hat."
+      }
+    ],
+    "noun": [
+      {
+        "definition": "The act or process of disappearing",
+        "example": "The sudden vanishing of the ship amazed everyone."
+      }
+    ]
+  },
+
+  "tense_forms": {
+    "base": "vanish",
+    "past": "vanished",
+    "past_participle": "vanished",
+    "present_participle": "vanishing",
+    "third_person": "vanishes"
+  },
+
+  "synonyms": ["disappear", "fade", "evaporate"],
+  "antonyms": ["appear", "emerge"],
+  "usage_examples": [
+    "The sun vanished behind the clouds.",
+    "The vanishing of the comet was observed by astronomers."
+  ]
+}

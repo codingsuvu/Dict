@@ -1,0 +1,33 @@
+{
+  "word": "zone",
+  "phonetic": "/zoʊn/",
+  "part_of_speech": ["noun", "verb"],
+  
+  "meanings": {
+    "noun": [
+      {
+        "definition": "An area or region distinguished from adjacent parts by a particular characteristic",
+        "example": "This is a no-parking zone."
+      }
+    ],
+    "verb": [
+      {
+        "definition": "To divide or assign into zones",
+        "example": "The city was zoned for residential and commercial use."
+      }
+    ]
+  },
+
+  "tense_forms": {
+    "base": "zone",
+    "past": "zoned",
+    "past_participle": "zoned",
+    "present_participle": "zoning",
+    "third_person": "zones"
+  },
+  "synonyms": ["area", "region", "district"],
+  "antonyms": ["whole", "entirety"],
+  "usage_examples": [
+    "The athlete entered the mental zone and performed flawlessly."
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "word": "visualize",
+  "phonetic": "/ˈvɪʒ.u.əˌlaɪz/",
+  "part_of_speech": ["verb", "noun"],
+
+  "meanings": {
+    "verb": [
+      {
+        "definition": "To form a mental image of something; to imagine or picture something in the mind",
+        "example": "She tried to visualize the scene he was describing."
+      }
+    ],
+    "noun": [
+      {
+        "definition": "The act or process of forming a mental image or representation of something",
+        "example": "Her visualization of the project helped the team understand the plan clearly."
+      }
+    ]
+  },
+  
+  "tense_forms": {
+    "base": "visualize",
+    "past": "visualized",
+    "past_participle": "visualized",
+    "present_participle": "visualizing",
+    "third_person": "visualizes"
+  },
+  "synonyms": ["imagine", "picture", "envisage", "conceptualize"], 
+  "antonyms": ["ignore", "overlook"],
+  "usage_examples": [
+    "Before you swing, visualize yourself hitting the ball.",
+    "Visualization is a powerful technique for achieving goals."
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "word": "vector",
+  "phonetic": "/ˈvɛktər/",
+  "part_of_speech": ["noun", "verb"],
+
+  "meanings": {
+    "verb": [
+      {
+        "definition": "To express or represent something as a vector (informal/constructed usage)",
+        "example": "In the physics simulation, they vectored the forces to compute direction and magnitude."
+      }
+    ],
+    "noun": [
+      {
+        "definition": "A quantity having direction as well as magnitude, especially in physics and mathematics",
+        "example": "Velocity is a vector because it has both speed and direction."
+      }
+    ]
+  },
+  
+  "tense_forms": {
+    "base": "vector",
+    "past": "vectored",
+    "past_participle": "vectored",
+    "present_participle": "vectoring",
+    "third_person": "vectors"
+  },
+  "synonyms": ["directional quantity", "carrier (disease)", "transmitter"],
+  "antonyms": ["scalar (in math/physics)"],
+  "usage_examples": [
+    "The engineer represented the force as a vector on the graph.",
+    "Ticks can be vectors for Lyme disease.",
+    "In graphics programming, they vectored the movement of the object."
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "word": "zouk",
+  "phonetic": "/zuːk/",
+  "part_of_speech": ["noun", "verb"],
+  "meanings": {
+    "noun": [
+      {
+        "definition": "A fast rhythmic style of dance music originating from the French West Indies",
+        "example": "The band played zouk all night long."
+      }
+    ],
+    "verb": [
+      {
+        "definition": "To dance to zouk music",
+        "example": "We zouked until the sun came up."
+      }
+    ]
+  },
+  "tense_forms": {
+    "base": "zouk",
+    "past": "zouked",
+    "past_participle": "zouked",
+    "present_participle": "zouking",
+    "third_person": "zouks"
+  },
+  "synonyms": ["dance", "groove"],
+  "antonyms": [],
+  "usage_examples": [
+    "They love to zouk at the carnival."
+  ]
+}

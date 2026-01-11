@@ -1,0 +1,31 @@
+{
+  "word": "zariba",
+  "phonetic": "/zəˈriːbə/",
+  "part_of_speech": ["noun", "verb"],
+  "meanings": {
+    "noun": [
+      {
+        "definition": "A protective enclosure of thorn bushes or stakes, typically in Africa",
+        "example": "The explorers built a zariba to protect the camp from wild animals."
+      }
+    ],
+    "verb": [
+      {
+        "definition": "To surround or enclose with a zariba",
+        "example": "They zaribaed the livestock for the night."
+      }
+    ]
+  },
+  "tense_forms": {
+    "base": "zariba",
+    "past": "zaribaed",
+    "past_participle": "zaribaed",
+    "present_participle": "zaribaing",
+    "third_person": "zaribas"
+  },
+  "synonyms": ["enclosure", "stockade", "fence", "corral"],
+  "antonyms": ["open space"],
+  "usage_examples": [
+    "The village was securely zaribaed against intruders."
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "word": "vacation",
+  "phonetic": "/vəˈkeɪʃən/",
+  "part_of_speech": ["noun", "verb"],
+
+  "meanings": {
+    "noun": [
+      {
+        "definition": "A period of time spent away from work or school for rest, travel, or recreation",
+        "example": "We are going on vacation next month."
+      }
+    ],
+    "verb": [
+      {
+        "definition": "To take a holiday or break from regular work or study",
+        "example": "They decided to vacation in the mountains."
+      }
+    ]
+  },
+
+  "tense_forms": {
+    "base": "vacation",
+    "past": "vacationed",
+    "past_participle": "vacationed",
+    "present_participle": "vacationing",
+    "third_person": "vacations"
+  },
+
+  "synonyms": ["holiday", "break", "leave"],
+  "antonyms": ["work", "duty"],
+  "usage_examples": [
+    "She is planning a vacation with her family.",
+    "They vacationed abroad last summer."
+  ]
+}

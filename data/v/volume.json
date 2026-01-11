@@ -1,0 +1,34 @@
+{
+  "word": "volume",
+  "phonetic": "/ˈvɒljuːm/",
+  "part_of_speech": ["noun", "verb"],
+
+  "meanings": {
+    "noun": [
+      {
+        "definition": "The amount of space that a substance or object occupies",
+        "example": "The volume of the box was too large to fit in the truck."
+      }
+    ],
+    "verb": [
+      {
+        "definition": "To adjust the sound level of something",
+        "example": "He volumed the music down before answering the phone."
+      }
+    ]
+  },
+  
+  "tense_forms": {
+    "base": "volume",
+    "past": "volumed",
+    "past_participle": "volumed",
+    "present_participle": "voluming",
+    "third_person": "volumes"
+  },
+  "synonyms": ["capacity", "loudness", "amount", "bulk"],
+  "antonyms": ["silence", "quietness"],
+  "usage_examples": [
+    "The volume of water in the tank is measured in liters.",
+    "She increased the volume on her speaker so everyone could hear."
+  ]
+}

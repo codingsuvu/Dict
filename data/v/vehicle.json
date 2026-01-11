@@ -1,0 +1,34 @@
+{
+  "word": "vehicle",
+  "phonetic": "/ˈviːɪkəl/",
+  "part_of_speech": ["noun", "verb"],
+  "meanings": {
+
+    "verb": [
+      {
+        "definition": "To transport or convey something (informal/constructed usage)",
+        "example": "The company vehicled the goods across the city using their fleet."
+      }
+    ],
+    "noun": [
+      {
+        "definition": "A means of transporting people or goods, especially on land",
+        "example": "The truck is a large vehicle used for deliveries."
+      }
+    ]
+  },
+
+  "tense_forms": {
+    "base": "vehicle",
+    "past": "vehicled",
+    "past_participle": "vehicled",
+    "present_participle": "vehicling",
+    "third_person": "vehicles"
+  },
+  "synonyms": ["automobile", "car", "transport", "conveyance"],
+  "antonyms": ["foot", "pedestrian travel"],
+  "usage_examples": [
+    "The vehicle pulled up in front of the house to pick them up.",
+    "They vehicled the equipment to the site before dawn."
+  ]
+}

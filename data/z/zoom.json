@@ -1,0 +1,33 @@
+{
+  "word": "zoom",
+  "phonetic": "/zuːm/",
+  "part_of_speech": ["verb", "noun"],
+  
+  "meanings": {
+    "verb": [
+      {
+        "definition": "To move quickly or to increase rapidly",
+        "example": "The car zoomed past us on the highway."
+      }
+    ],
+    "noun": [
+      {
+        "definition": "A quick movement or rapid increase",
+        "example": "The video showed a zoom on the actor’s face."
+      }
+    ]
+  },
+
+  "tense_forms": {
+    "base": "zoom",
+    "past": "zoomed",
+    "past_participle": "zoomed",
+    "present_participle": "zooming",
+    "third_person": "zooms"
+  },
+  "synonyms": ["speed", "rush", "increase", "magnify"],
+  "antonyms": ["slow", "decrease", "reduce"],
+  "usage_examples": [
+    "The plane zoomed across the sky at incredible speed."
+  ]
+}

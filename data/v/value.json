@@ -1,0 +1,34 @@
+{
+  "word": "value",
+  "phonetic": "/ˈvæljuː/",
+  "part_of_speech": ["verb", "noun"],
+
+  "meanings": {
+    "verb": [
+      {
+        "definition": "To consider something important or beneficial",
+        "example": "She values honesty in her friends."
+      }
+    ],
+    "noun": [
+      {
+        "definition": "The importance, worth, or usefulness of something",
+        "example": "The antique vase has great value."
+      }
+    ]
+  },
+
+  "tense_forms": {
+    "base": "value",
+    "past": "valued",
+    "past_participle": "valued",
+    "present_participle": "valuing",
+    "third_person": "values"
+  },
+
+  "synonyms": ["appreciate", "worth", "importance"],
+  "antonyms": ["devalue", "worthlessness"],
+  "usage_examples": [
+    "We should value our time and use it wisely."
+  ]
+}

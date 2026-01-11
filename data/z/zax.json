@@ -1,0 +1,31 @@
+{
+  "word": "zax",
+  "phonetic": "/zæks/",
+  "part_of_speech": ["noun", "verb"],
+  "meanings": {
+    "noun": [
+      {
+        "definition": "A tool used by slaters for cutting and punching nail holes in roofing slate",
+        "example": "The roofer used a zax to trim the slate tile."
+      }
+    ],
+    "verb": [
+      {
+        "definition": "To cut or shape with a zax",
+        "example": "He zaxed the slate to fit the corner of the roof."
+      }
+    ]
+  },
+  "tense_forms": {
+    "base": "zax",
+    "past": "zaxed",
+    "past_participle": "zaxed",
+    "present_participle": "zaxing",
+    "third_person": "zaxes"
+  },
+  "synonyms": ["cutter", "slater's tool"],
+  "antonyms": [],
+  "usage_examples": [
+    "Properly zaxing the slate requires skill and precision."
+  ]
+}

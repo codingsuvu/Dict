@@ -1,0 +1,35 @@
+{
+  "word": "vibrate",
+  "phonetic": "/ˈvaɪbreɪt/",
+  "part_of_speech": ["verb", "noun"],
+
+  "meanings": {
+    "verb": [
+      {
+        "definition": "To move quickly back and forth or up and down",
+        "example": "The phone vibrated on the table when he received a message."
+      }
+    ],
+    "noun": [
+      {
+        "definition": "A rapid back-and-forth or oscillating motion",
+        "example": "The slight vibrate of the machine indicated it was working."
+      }
+    ]
+  },
+
+  "tense_forms": {
+    "base": "vibrate",
+    "past": "vibrated",
+    "past_participle": "vibrated",
+    "present_participle": "vibrating",
+    "third_person": "vibrates"
+  },
+
+  "synonyms": ["shake", "quiver", "oscillate"],
+  "antonyms": ["still", "steady"],
+  "usage_examples": [
+    "The speaker vibrated gently, producing a low hum.",
+    "I could feel the vibrate of the engine through the floor."
+  ]
+}

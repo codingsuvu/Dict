@@ -1,0 +1,31 @@
+{
+  "word": "vault",
+  "phonetic": "/vɔːlt/",
+  "part_of_speech": ["noun", "verb"],
+  "meanings": {
+    "noun": [
+      {
+        "definition": "A secure room for storing valuables; an arched roof or ceiling",
+        "example": "The bank keeps the gold in a secure vault."
+      }
+    ],
+    "verb": [
+      {
+        "definition": "To leap or spring over something, often using one's hands or a pole",
+        "example": "The athlete vaulted over the high bar."
+      }
+    ]
+  },
+  "tense_forms": {
+    "base": "vault",
+    "past": "vaulted",
+    "past_participle": "vaulted",
+    "present_participle": "vaulting",
+    "third_person": "vaults"
+  },
+  "synonyms": ["safe", "strongroom", "jump", "leap", "spring"],
+  "antonyms": ["crawl", "creep"],
+  "usage_examples": [
+    "He vaulted the fence to get the ball."
+  ]
+}

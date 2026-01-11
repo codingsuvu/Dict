@@ -1,0 +1,35 @@
+{
+  "word": "volunteer",
+  "phonetic": "/ˌvɒlənˈtɪər/",
+  "part_of_speech": ["verb", "noun"],
+
+  "meanings": {
+    "verb": [
+      {
+        "definition": "To offer to do something willingly without being asked or paid",
+        "example": "She volunteered to help organize the charity event."
+      }
+    ],
+    "noun": [
+      {
+        "definition": "A person who freely offers to take part in an activity or service",
+        "example": "Many volunteers helped clean up the park."
+      }
+    ]
+  },
+
+  "tense_forms": {
+    "base": "volunteer",
+    "past": "volunteered",
+    "past_participle": "volunteered",
+    "present_participle": "volunteering",
+    "third_person": "volunteers"
+  },
+
+  "synonyms": ["offer", "enlist", "assist"],
+  "antonyms": ["refuse", "avoid"],
+  "usage_examples": [
+    "He volunteered to tutor students after school.",
+    "Volunteers are essential for running community programs."
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "word": "zizzle",
+  "phonetic": "/ˈzɪzəl/",
+  "part_of_speech": ["noun", "verb"],
+  "meanings": {
+    "noun": [
+      {
+        "definition": "A spluttering or hissing sound",
+        "example": "The zizzle of the frying pan made me hungry."
+      }
+    ],
+    "verb": [
+      {
+        "definition": "To make a spluttering or hissing sound",
+        "example": "The bacon zizzled in the hot grease."
+      }
+    ]
+  },
+  "tense_forms": {
+    "base": "zizzle",
+    "past": "zizzled",
+    "past_participle": "zizzled",
+    "present_participle": "zizzling",
+    "third_person": "zizzles"
+  },
+  "synonyms": ["sizzle", "hiss", "splutter", "crackle"],
+  "antonyms": ["silence"],
+  "usage_examples": [
+    "Sparks zizzled from the broken wire."
+  ]
+}

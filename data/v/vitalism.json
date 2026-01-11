@@ -1,0 +1,32 @@
+{
+  "word": "vitalism",
+  "phonetic": "/ˈvaɪtəlɪzəm/",
+  "part_of_speech": ["noun", "verb"],
+  "meanings": {
+    "verb": [
+      {
+        "definition": "To support or believe in the doctrine of vitalism",
+        "example": "Some 19th-century scientists vitalismed, believing in a special life force beyond chemistry."
+      }
+    ],
+    "noun": [
+      {
+        "definition": "A philosophical doctrine that life processes cannot be fully explained by physical and chemical laws alone, and that living organisms possess a distinct life force",
+        "example": "In the 19th century, vitalism was a popular belief among biologists."
+      }
+    ]
+  },
+  "tense_forms": {
+    "base": "vitalism",
+    "past": "vitalismed",
+    "past_participle": "vitalismed",
+    "present_participle": "vitalisming",
+    "third_person": "vitalisms"
+  },
+  "synonyms": ["life‑force theory", "élan vital concept", "animism (in biology)"],
+  "antonyms": ["mechanism", "reductionism"],
+  "usage_examples": [
+    "While vitalism influenced early biology, modern science largely explains life processes through chemistry and physics.",
+    "Some scholars vitalismed in the 1800s, believing life relied on a special force."
+  ]
+}

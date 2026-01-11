@@ -1,0 +1,32 @@
+{
+  "word": "vulcanize",
+  "phonetic": "/ˈvʌlkəˌnaɪz/",
+  "part_of_speech": ["verb", "noun"],
+  "meanings": {
+    "verb": [
+      {
+        "definition": "To treat rubber or similar material with sulfur and heat to improve its strength, elasticity, and durability",
+        "example": "They vulcanized the rubber to make tougher tires." 
+      }
+    ],
+    "noun": [
+      {
+        "definition": "The process of vulcanizing rubber or similar materials",
+        "example": "Vulcanization of the rubber made it suitable for use in industrial hoses."
+      }
+    ]
+  },
+  "tense_forms": {
+    "base": "vulcanize",
+    "past": "vulcanized",
+    "past_participle": "vulcanized",
+    "present_participle": "vulcanizing",
+    "third_person": "vulcanizes"
+  },
+  "synonyms": ["treat", "harden", "strengthen"],
+  "antonyms": ["soften", "weaken"],
+  "usage_examples": [
+    "The factory workers vulcanized the rubber components before assembly.",
+    "Proper vulcanization makes rubber products more resilient and long‑lasting."
+  ]
+}

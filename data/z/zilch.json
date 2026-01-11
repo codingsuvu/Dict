@@ -1,0 +1,31 @@
+{
+  "word": "zilch",
+  "phonetic": "/zɪltʃ/",
+  "part_of_speech": ["noun", "verb"],
+  "meanings": {
+    "noun": [
+      {
+        "definition": "Nothing; zero",
+        "example": "We got zilch for our efforts."
+      }
+    ],
+    "verb": [
+      {
+        "definition": "To reduce to nothing; to score zero or defeat completely",
+        "example": "The team was zilched in the final game."
+      }
+    ]
+  },
+  "tense_forms": {
+    "base": "zilch",
+    "past": "zilched",
+    "past_participle": "zilched",
+    "present_participle": "zilching",
+    "third_person": "zilches"
+  },
+  "synonyms": ["nothing", "zero", "zip", "nought"],
+  "antonyms": ["all", "everything", "plenty"],
+  "usage_examples": [
+    "He knows absolutely zilch about cars."
+  ]
+}

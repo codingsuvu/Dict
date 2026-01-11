@@ -1,0 +1,31 @@
+{
+  "word": "zydeco",
+  "phonetic": "/ˈzaɪdɪkoʊ/",
+  "part_of_speech": ["noun", "verb"],
+  "meanings": {
+    "noun": [
+      {
+        "definition": "A kind of black American dance music originally from southern Louisiana, typically featuring accordion and guitar",
+        "example": "The band played upbeat zydeco tunes."
+      }
+    ],
+    "verb": [
+      {
+        "definition": "To dance to zydeco music",
+        "example": "We zydecoed until our feet hurt."
+      }
+    ]
+  },
+  "tense_forms": {
+    "base": "zydeco",
+    "past": "zydecoed",
+    "past_participle": "zydecoed",
+    "present_participle": "zydecoing",
+    "third_person": "zydecos"
+  },
+  "synonyms": ["cajun music", "swamp pop"],
+  "antonyms": [],
+  "usage_examples": [
+    "Fans travel from all over to zydeco at the festival."
+  ]
+}

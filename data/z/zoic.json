@@ -1,0 +1,34 @@
+{
+  "word": "zoic",
+  "phonetic": "/ˈzoʊɪk/",
+  "part_of_speech": ["noun", "verb"],
+  
+  "meanings": {
+    "noun": [
+      {
+        "definition": "A geological era characterized by the presence of certain types of animals",
+        "example": "The Paleozoic is a zoic era."
+      }
+    ],
+    "verb": [
+      {
+        "definition": "To relate or classify according to animal life (coined usage)",
+        "example": "The biologist zoiced the fossil layers to classify the animals."
+      }
+    ]
+  },
+
+  "tense_forms": {
+    "base": "zoic",
+    "past": "zoiced",
+    "past_participle": "zoiced",
+    "present_participle": "zoicing",
+    "third_person": "zoics"
+  },
+  "synonyms": ["animalistic", "faunal"],
+  "antonyms": ["plant-based", "botanic"],
+  "usage_examples": [
+    "Scientists study fossils to understand zoic periods of Earth.",
+    "The biologist zoiced the fossil layers to classify the animals."
+  ]
+}
